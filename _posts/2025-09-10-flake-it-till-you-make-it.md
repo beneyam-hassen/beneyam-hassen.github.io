@@ -9,6 +9,6 @@ tags: [About me, Beneyam]
 author: Beneyam Hassen
 ---
 
-My name is Beneyam Hassen, I'm a sophmore majoring in Sociology and Studio Arts. I have computer programming experience, but I hope to learn the basics from this class. My dad sews alot and has a small sewing business but I have none of his skills. 
+My name is Beneyam Hassen, I'm a sophmore majoring in Sociology and Studio Arts. I have no computer programming experience, but I hope to learn the basics from this class. My dad sews alot and has a small sewing business but I have none of his skills. 
 
 Boring Fact about me: I've never been to a concert
