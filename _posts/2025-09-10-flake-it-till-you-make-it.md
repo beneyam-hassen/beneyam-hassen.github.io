@@ -3,8 +3,8 @@ layout: post
 title: Introduction to Beneyam Hassen
 subtitle: A little more about me
 cover-img: /assets/img/DSC_5642.jpeg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/IMG_5591.jpeg
+share-img: /assets/img/DSC_5642.jpeg
 tags: [About me, Beneyam]
 author: Beneyam Hassen
 ---
