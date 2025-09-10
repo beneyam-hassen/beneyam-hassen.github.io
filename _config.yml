@@ -13,7 +13,7 @@
 title: The Source
 
 # Your name to show in the footer
-author: Some Person
+author: Beneyam Hassen
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -52,19 +52,19 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  #facebook: deanattali
+  github: Beneyam-Hassen
+  #twitter: daattali
+ # patreon: DeanAttali
+  youtube: "@BeneyamHassen"
+  #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: Beneyam Hassen
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: Beneyam_Hassen
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
