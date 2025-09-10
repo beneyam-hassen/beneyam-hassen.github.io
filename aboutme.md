@@ -15,4 +15,4 @@ What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In a world where computers and AI are becoming central to our society, I want to have the most basic knowledge of Computer Science. I'm a humanities-focused student, so taking CSCI 104 is a step for me to venture out of my comfort zone. Looking at the syllabus, I'm very excited to sew and create, as Marx says, the purpose of humans is to create; create beautiful things. 
