@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Are you indecisive? Do you need helping know if you need a sweater? I got you!"
+subtitle: "Programming to let you know if you need a sweater"
+cover-img: /assets/img/IMG_7688.jpeg.jpeg
+thumbnail-img: /assets/img/IMG_1851.jpeg
+share-img: /assets/img/IMG_7812.jpeg
+tags: [Sweater, Code, Warm, Cold]
+author: "Beneyam Hassen"
+---
+
+##![Screenshot of code](https://beneyam-hassen.github.io/assets/img/IMG_7812.jpeg)
+
+
+I thought this was enjoyable, I would maybe even give  myself more time so I can play around with it. 
