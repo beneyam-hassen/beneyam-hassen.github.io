@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homemade Switches
-subtitle: A light-up sampler (or other piece of fabric) that illuminates one LED when properly connected to a battery, a conductive-thread-patches switch and a second, different homemade switch
+subtitle: A light-up sampler that illuminates one LED when properly connected to a battery, a conductive-thread-patches switch and a second, different homemade switch
 cover-img: /assets/img/IMG_8052.jpeg
 thumbnail-img: /assets/img/IMG_8052.jpeg
 share-img: /assets/img/IMG_8052.jpeg
