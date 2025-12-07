@@ -32,8 +32,13 @@ The following is my revised paper prototype
 The following is my working alligator clips (chop chop)
 ![Alligator Clips Prototype](https://beneyam-hassen.github.io/assets/img/IMG_9895.jpeg)
 
-The Following is a video of my working product
+The Following are videos of my working product
 
+Input: Lightsensor 
+![Lightsensor](https://beneyam-hassen.github.io/assets/img/IMG_9967.mov)
+
+Input: Button
+![Button](https://beneyam-hassen.github.io/assets/img/IMG_9968.mov)
 
 3 tips to myself:
 1. 
