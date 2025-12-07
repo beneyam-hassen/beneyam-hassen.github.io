@@ -35,7 +35,9 @@ The following is my working alligator clips (chop chop)
 The Following are videos of my working product
 
 Input: Lightsensor 
-![Lightsensor](https://github.com/beneyam-hassen/beneyam-hassen.github.io/raw/refs/heads/master/assets/img/IMG_9967.mov)
+<video width="320" height="240" controls loop=" " muted = " " autoplay=" ">
+  <source src="https://github.com/beneyam-hassen/beneyam-hassen.github.io/raw/refs/heads/master/assets/img/IMG_9967.mov">
+<v/video>
 
 Input: Button
 ![Lightsensor](https://github.com/beneyam-hassen/beneyam-hassen.github.io/raw/refs/heads/master/assets/img/IMG_9968.mov)
