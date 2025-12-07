@@ -40,7 +40,9 @@ Input: Lightsensor
 <v/video>
 
 Input: Button
-![Lightsensor](https://github.com/beneyam-hassen/beneyam-hassen.github.io/raw/refs/heads/master/assets/img/IMG_9968.mov)
+<video width="960" height="720" controls loop=" " muted = " " autoplay=" ">
+  <source src="https://github.com/beneyam-hassen/beneyam-hassen.github.io/raw/refs/heads/master/assets/img/IMG_9968.mov">
+<v/video>
 
 3 tips to myself:
 1. 
