@@ -35,10 +35,10 @@ The following is my working alligator clips (chop chop)
 The Following are videos of my working product
 
 Input: Lightsensor 
-![Lightsensor](https://beneyam-hassen.github.io/assets/img/IMG_9967.mov)
+![Lightsensor](https://github.com/beneyam-hassen/beneyam-hassen.github.io/raw/refs/heads/master/assets/img/IMG_9967.mov)
 
 Input: Button
-![Button](https://beneyam-hassen.github.io/assets/img/IMG_9968.mov)
+![Lightsensor](https://github.com/beneyam-hassen/beneyam-hassen.github.io/raw/refs/heads/master/assets/img/IMG_9968.mov)
 
 3 tips to myself:
 1. 
