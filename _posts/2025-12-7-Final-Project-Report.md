@@ -30,17 +30,17 @@ The following was my first paper prototype
 The following is my revised paper prototype 
 ![Revised Paper Prototype](https://beneyam-hassen.github.io/assets/img/finalpaperprototype.jpg)
 
-The following is my working alligator clips (chop chop)
+The following is my working alligator clips (chomp chomp)
 ![Alligator Clips Prototype](https://beneyam-hassen.github.io/assets/img/IMG_9895.jpeg)
 
 3 tips to myself:
-1. I wished I 
+1. I wished re-did my paper prototype after I decided to alter somethings because some of the smaller things that I had thought through, such as orientation of the items to reduce overlapping, were nullified. 
 
 
-2. sd
+2. Had I given myself more time during the paper prototype stage, I might have been able to think through more alternatives besides a shirt to the eye mask I originally started with.
 
    
-3. 
+3. I was glad to have worked on this on two screens, because that meant that I could have my previous assignments, which this one is very similar to, as refrences for the coding. 
    
 
 
