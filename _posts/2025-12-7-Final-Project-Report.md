@@ -52,3 +52,7 @@ Input: Lightsensor
 <v/video>
 
 
+Refrences:
+
+Used the following source for help with adding code for a video
+ - https://medium.com/@ciaranbench/how-to-add-a-video-file-on-github-pages-github-io-website-html-a2e9dd81618a
