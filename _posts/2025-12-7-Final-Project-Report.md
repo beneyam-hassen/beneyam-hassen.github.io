@@ -44,7 +44,7 @@ The following is my working alligator clips (chomp chomp)
    
 
 
-The Following are videos of my working product
+The Following is a video of my working product:
 
 Input: Lightsensor 
 <video width="320" height="240" controls loop=" " muted = " " autoplay=" ">
