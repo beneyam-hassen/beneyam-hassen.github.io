@@ -32,20 +32,17 @@ The following is my revised paper prototype
 The following is my working alligator clips (chop chop)
 ![Alligator Clips Prototype](https://beneyam-hassen.github.io/assets/img/IMG_9895.jpeg)
 
-The Following are videos of my working product
-
-Input: Lightsensor 
-<video width="320" height="240" controls loop=" " muted = " " autoplay=" ">
-  <source src="https://github.com/beneyam-hassen/beneyam-hassen.github.io/raw/refs/heads/master/assets/img/IMG_9967.mov">
-<v/video>
-
-Input: Button
-<video width="320" height="240" controls loop=" " muted = " " autoplay=" ">
-  <source src="https://github.com/beneyam-hassen/beneyam-hassen.github.io/raw/refs/heads/master/assets/img/IMG_9968.mov">
-<v/video>
-
 3 tips to myself:
 1. 
 2.
 3.
+
+
+The Following are videos of my working product
+
+Input: Lightsensor 
+<video width="320" height="240" controls loop=" " muted = " " autoplay=" ">
+  <source src="https://github.com/beneyam-hassen/beneyam-hassen.github.io/raw/refs/heads/master/assets/img/IMG_9985.mov">
+<v/video>
+
 
