@@ -10,6 +10,7 @@ author: Beneyam Hassen
 ---
 
 Beneyam's Computer Screen Distance Shirt
+
 I spend hours editing photos, sitting behind a screen. After a bit I can feel my eyes straining, and I find myself getting closer and closer to my screen. Originally, I was going to make glasses that would detect and alert me when I am too close to my screen using a light sensor, but the objects were too large and it became unfeasible. I decide to keep the same plan but onto a shirt instead, the buzzer will go off if I get too close, and the status of the LED will change from green to red. 
 
 Materials needed:
@@ -33,9 +34,14 @@ The following is my working alligator clips (chop chop)
 ![Alligator Clips Prototype](https://beneyam-hassen.github.io/assets/img/IMG_9895.jpeg)
 
 3 tips to myself:
-1. 
-2.
-3.
+1. I wished I 
+
+
+2. sd
+
+   
+3. 
+   
 
 
 The Following are videos of my working product
