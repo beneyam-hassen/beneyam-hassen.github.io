@@ -43,6 +43,8 @@ The following is my working alligator clips (chomp chomp)
 3. I was glad to have worked on this on two screens, because that meant that I could have my previous assignments, which this one is very similar to, as refrences for the coding. 
    
 
+Used the following source for help with adding code for a video
+ - https://medium.com/@ciaranbench/how-to-add-a-video-file-on-github-pages-github-io-website-html-a2e9dd81618a
 
 The Following is a video of my working product:
 
@@ -51,8 +53,3 @@ Input: Lightsensor
   <source src="https://github.com/beneyam-hassen/beneyam-hassen.github.io/raw/refs/heads/master/assets/img/IMG_9985.mov">
 <v/video>
 
-
-Refrences:
-
-Used the following source for help with adding code for a video
- - https://medium.com/@ciaranbench/how-to-add-a-video-file-on-github-pages-github-io-website-html-a2e9dd81618a
